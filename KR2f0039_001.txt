@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 歷代名臣奏議
-#+DATE: 2015-08-24 22:33:42.043623
+#+DATE: 2015-08-24 22:33
 #+PROPERTY: ID KR2f0039
 #+PROPERTY: BASEEDITION WYG    
 #+PROPERTY: JUAN 卷一
